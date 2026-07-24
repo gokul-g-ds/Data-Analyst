@@ -1,0 +1,44 @@
+Data science - 60 days
+
+Python mastery course - DAY 4
+
+1)Function 
+ ->Syntax
+   def function_name()
+     #code
+ ->Type 
+   ->void function - Function doesn't return value
+   ->Non void function - Function return the value
+   
+2)Arguments - The value passed according to position
+ ->Types of argument
+   ->Postion argument
+   ->Keyword argument
+   ->Default argument
+
+3)parameter - written inside the function Definition
+
+4)Scope of variable 
+  ->local - Declare inside the Function
+  ->Global - It can access anywhere in code
+  
+ 5)Recursive function
+   ->A function call by itself
+   
+ 6)Modules
+   ->help us to oraganize code and reuse different program
+   
+ 7)Package 
+   ->two or more module in single folder
+     ->package.py
+	   {module1
+	    module2
+		module3}
+
+8)oops - object oriented programming
+   -> creating class 
+   -> object
+   -> constructor - def  __init__ function_name()
+   -> Destructor - def __del__ function_name()
+   
+
