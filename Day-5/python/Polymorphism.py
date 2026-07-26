@@ -58,3 +58,35 @@ fees_structure =  25000
 Total_course =  22
 
 === Code Exited With Errors ==='''
+
+
+'''class Bankaccount:
+
+    def __init__(self, customer_name, account_num):
+        self.customer_name = customer_name
+        self.account_num = account_num
+
+    def account_type(self):
+        print("This is a Bank Account")
+
+
+class SavingsAccount(Bankaccount):
+
+    def account_type(self):
+        print("This is Savings Account")
+
+
+class CurrentAccount(Bankaccount):
+
+    def account_type(self):
+        print("This is Current Account")
+
+
+# Creating objects
+savings = SavingsAccount("gokul", 6448101002744)
+current = CurrentAccount("Arun", 1234567890)
+
+# Same method, different behavior
+savings.account_type()
+current.account_type()'''
+
