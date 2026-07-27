@@ -1,0 +1,54 @@
+Data science - 60 days
+
+Python mastery course - DAY 5
+
+1)Encapsulation
+ ->Building data and methods into single unit 
+ Why Encapsulation
+   ->protect object data from unauthorized access
+   ->improve code security and realiability
+   ->Makes code easier to maintain
+   
+ Types and methods
+   ->Public members()- the name attribute can be access directly
+   ->Protected members() - indicated by (_)single undrscore 
+   ->private members() - Indiacted by double underscore 
+   
+  getter and setter 
+   ->Instead of accessing private data directly, provide methods to read or modify it 
+   
+   
+2)Inheritance 
+  ->child class get properties and methods of parent class
+  ->syntax
+       class parent:
+	      #code
+	
+	   class child(parent):
+	      #code
+		  
+  Types of inheritance 
+   ->single inheritance
+   ->multipleinheritance
+   ->multilevel inheritance
+   ->hierarichal inheritance 
+   
+   
+ 3)Polymorphism 
+  -> same method,different behaviour
+  
+ 4)abstraction
+   ->hide internal implementation details and showing only the important features to user
+   
+ 5) Static method 
+   ->static method is a method that belongs to class but does not use self
+   
+ 6)File handling
+   ->creating,reading,writing,opening,modifying using python
+   methods
+   ->Write
+   ->read
+   ->with 
+
+   
+
