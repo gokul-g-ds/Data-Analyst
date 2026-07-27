@@ -1,0 +1,27 @@
+Data science - 60 days
+
+SQL course - DAY 6
+
+Structured Querry Language 
+
+1)Database -> collection of data
+
+ ->Types of database 
+   ->Relational database ->SQL mainly used in Relational database
+   ->NOSQL database
+   ->Hierarichal database
+
+2)Datatypes
+  ->Numeric data types (INT,SMALLINT,BIGINT,DECIMAL,FLOAT,DOUBLE)
+  ->char datatypes (Char(n),VARCHAR(n),TEXT)
+  ->Date and Time datatype (TIME,DATE,DATETIME,TIMESTAMP)
+  ->Boolean datatype 
+
+3)Create,update,modify,delete,insert,select,alter,drop
+
+4)SQL Data Retrival ->select,distinct,where,order by,limit
+
+5)SQL operators -> ( = ,> ,<,>=,<=,AND,OR,NOT,IN,NOT IN,BETWEEN,IS NULL)
+
+6)SQL Aggregate Functions -> (COUNT(),SUM(),AVG(),MIN(),MAX(),GROUP BY() 
+
